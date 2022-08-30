@@ -14,6 +14,7 @@ export default function App() {
             
         </View>)
     }
+    
     const ListSoal = () => {
       let soal2 = [];
             let soal = ['10010010', '01110111', '11111111'],
